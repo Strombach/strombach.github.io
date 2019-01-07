@@ -46,7 +46,7 @@ ul, ol, dl, figure,
  * `main` element
  */
 main {
-  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  display: inline; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
 
