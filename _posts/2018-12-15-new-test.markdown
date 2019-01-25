@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Test Blogg-inlägg"
+title:  "Test Post"
 date:   2018-12-15 08:22:42 -0600
 categories: jekyll update
 comments: true
 ---
-Detta är ett nytt test för att göra nya blogg inlägg.
+This is just a new post to test if making new posts works.
