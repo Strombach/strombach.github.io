@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Test
-permalink: /test/
+layout: allPosts
+title: All Posts
+permalink: /posts/
 ---
-
-Blalalalbalblalbalblalbalblablalbalblalbalbl
